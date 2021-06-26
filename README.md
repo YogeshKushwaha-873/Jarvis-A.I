@@ -1,4 +1,8 @@
-# Hyy Guys...
-# I am Yogesh Kushwaha, this Project name is Jarvis A.I,
-# I hope this project helps you,
-# So enjoy this project...
+- 👋 Hi, I’m Yogesh Kushwaha
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Java
+
+<!---
+YogeshKushwaha-873 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
